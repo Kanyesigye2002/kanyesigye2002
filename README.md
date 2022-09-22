@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: allan_kanye](https://img.shields.io/twitter/follow/allan_kanye?style=social)](https://twitter.com/allan_kanye)
-[![Linkedin: allan_kanye](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: kanyesigye-allan-0aa278251](https://img.shields.io/badge/-allan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanyesigye-allan-0aa278251/)](https://www.linkedin.com/in/kanyesigye-allan-0aa278251/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/kanyesigye2002?label=follow&style=social)](https://github.com/kanyesigye2002)
 
 
