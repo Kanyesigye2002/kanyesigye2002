@@ -7,6 +7,13 @@
 [![Linkedin: kanyesigye-allan-0aa278251](https://img.shields.io/badge/-allan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanyesigye-allan-0aa278251/)](https://www.linkedin.com/in/kanyesigye-allan-0aa278251/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/kanyesigye2002?label=follow&style=social)](https://github.com/kanyesigye2002)
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kanyesigye2002)](https://git.io/streak-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyesigye2002&layout=compact&theme=vision-friendly-dark)](https://github.com/igizchuck43/github-readme-stats)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
