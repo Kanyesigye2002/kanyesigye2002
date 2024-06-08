@@ -8,9 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/kanyesigye2002?label=follow&style=social)](https://github.com/kanyesigye2002)
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kanyesiigye2002&theme=dark&border_radius=8&card_width=560)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kanyesigye2002&theme=dark&border_radius=8&card_width=560)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanyesigye2002&layout=compact&theme=vision-friendly-dark)](https://github.com/Kanyesigye2002/github-readme-stats)
 
